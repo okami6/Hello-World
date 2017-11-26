@@ -27,4 +27,7 @@ _You**can**combine them_
   1. Item 3b
 
 ![GitHub Logo](/images/logo.png)
-Format:![Alt Text](http://google.jp)
+Format:![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
